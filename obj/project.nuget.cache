@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "yaMz5pxVDF62YfOjl7U2TmJwIcAJPKM3G8lbZVuj1yv3Ns+NPUa/PSQI7sw2tHZXf9GkohZyH/xDWvX2pZ1N4Q==",
+  "dgSpecHash": "yYWnI+9bUslgBgI+GLOdgBpZB+Ifr+ZX2T+fC1p2mMLTccZYuH6BDeDqzMXSAdWxW9HKVv9V/6OF69DiMvQK0A==",
   "success": true,
   "projectFilePath": "C:\\Users\\reza-\\OneDrive\\Desktop\\CeasarAPI\\CeasarAPI.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\reza-\\.nuget\\packages\\xunit\\2.6.6\\xunit.2.6.6.nupkg.sha512",
+    "C:\\Users\\reza-\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\reza-\\.nuget\\packages\\xunit.analyzers\\1.10.0\\xunit.analyzers.1.10.0.nupkg.sha512",
+    "C:\\Users\\reza-\\.nuget\\packages\\xunit.assert\\2.6.6\\xunit.assert.2.6.6.nupkg.sha512",
+    "C:\\Users\\reza-\\.nuget\\packages\\xunit.core\\2.6.6\\xunit.core.2.6.6.nupkg.sha512",
+    "C:\\Users\\reza-\\.nuget\\packages\\xunit.extensibility.core\\2.6.6\\xunit.extensibility.core.2.6.6.nupkg.sha512",
+    "C:\\Users\\reza-\\.nuget\\packages\\xunit.extensibility.execution\\2.6.6\\xunit.extensibility.execution.2.6.6.nupkg.sha512",
+    "C:\\Users\\reza-\\.nuget\\packages\\xunit.runner.visualstudio\\2.5.6\\xunit.runner.visualstudio.2.5.6.nupkg.sha512"
+  ],
   "logs": []
 }
